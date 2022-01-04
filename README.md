@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://https://blog.naver.com/howold0917">
     <img 
-        src="http://img.shields.io/badge/-Instagram-lightgreen?style=flat&logo=#8F8F8F&link=https://blog.naver.com/howold0917/"
+        src="http://img.shields.io/badge/-naverblog-lightgreen?style=flat&logo=#8F8F8F&link=https://blog.naver.com/howold0917/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
