@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 
-![logo]<a href="https://instagram.com/h_owo_ld">
+<a href="https://instagram.com/h_owo_ld">
     <img 
         src="http://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
