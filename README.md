@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 
-![logo](https://img.shields.io/badge/instagram-FFFFFF?style=flat-square&logo=#E4405F&logoColor=white&link=instagram.com/h_owo_ld)
+![logo](https://img.shields.io/badge/Tech%20Blog-11B48A?-FFFFFF?style=flat-square&logo=#E4405F&logoColor=white&link=instagram.com/h_owo_ld)
