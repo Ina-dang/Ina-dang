@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient {
-        "idx": 3,
-        "color": {
-            "0" : "c2e59c",
-            "100" : "64b3f4"
-        },
-        "text": "f7f5f5",
-        "textBg": "282829"
-    }&height=250&section=header&text=Ina-dang&fontSize=90&fontcolor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ina-dang&fontSize=90&fontColor=white)
 
 
