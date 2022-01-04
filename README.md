@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=111111)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=000000)
 
 
