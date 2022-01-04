@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://https://blog.naver.com/howold0917">
     <img 
-        src="http://img.shields.io/badge/-Instagram-lightgreen?style=flat&logo=![image](https://user-images.githubusercontent.com/95903764/148020494-17fb9f32-dc65-414d-afbb-e189706a1b39.png)&link=blog.naver.com/howold0917/"
+        src="http://img.shields.io/badge/-Instagram-lightgreen?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.blog.naver.com%2Fevahill%2F220860862087&psig=AOvVaw3UtlgRCkAUBMLJ9FrcUj7G&ust=1641365500251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPju9Y3Bl_UCFQAAAAAdAAAAABAO&link=https://blog.naver.com/howold0917/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
