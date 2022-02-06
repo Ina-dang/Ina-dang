@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=lightViolet&height=200&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 
 <div align=center>
 	
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 </a>
 <a href="https://inadang.com" align=center>
     <img 
-        src="http://img.shields.io/badge/-inadang-lightyellow?style=flat&logo=ReverbNation&link=https://inadang.com/"
+        src="http://img.shields.io/badge/-inadang-lightYellow?style=flat&logo=ReverbNation&link=https://inadang.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 	
   </div>
   
-
-[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&size=60&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
+[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
+
