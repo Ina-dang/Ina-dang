@@ -25,7 +25,15 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 
-
+<h3 align="center">📚 Tech Stack 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<!--  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+-->
+</div> 
 	
 <div align=center>
 	<h3> 🐣 SNS / portfolio 🐣 </h3>	
