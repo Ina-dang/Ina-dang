@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 
+				🌱 I’m currently learning Java & css 
 
 <div align=center>
-
-	<p> 🌱 I’m currently learning Java & css </p>
 	
 	<a href="https://instagram.com/h_owo_ld" align=center>
    	    <img src="http://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
