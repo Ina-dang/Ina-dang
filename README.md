@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 
 				
-🌱 I’m currently learning Java & css 
+
 <div align=center>
 	
 	<a href="https://instagram.com/h_owo_ld" align=center>
