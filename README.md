@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=180&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
-</div>
 
-<p align = center>
-🌱 Hello🖐 I’m currently learning Java in Seoul, Korea <br>
-📫 How to reach me: ina9377@gmail.com
+<p align=center>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=180&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<br>🌱 Hello🖐 I’m currently learning Java in Seoul, Korea <br>
 </p>
+
 
 <div align=center>
 	
@@ -59,7 +57,11 @@ Here are some ideas to get you started:
 	 src="http://img.shields.io/badge/-inadang-FFFFCC?style=flat&logo=ReverbNation&link=https://inadang.com/"
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div>
+<a href="mailto:ina9377@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
   
 
