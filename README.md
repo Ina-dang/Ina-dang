@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=200&section=header&text=Ina-dang&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 
 <a href="https://instagram.com/h_owo_ld">
     <img 
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-inadang-lightyellow?style=flat&logo=ReverbNation&link=https://inadang.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![header](https://capsule-render.vercel.app/api?type=Slice&cikir=timeGradient&height=200&section=foot&text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20&fontColor=FFFFFF&rotate=-180)
