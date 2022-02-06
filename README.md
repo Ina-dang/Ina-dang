@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=120&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 <br>🌱 Hello🖐 I’m currently learning Java in Seoul, Korea <br>
 </p>
 
