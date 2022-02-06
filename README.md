@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 📫 How to reach me: ina9377@gmail.com
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact&)](https://github.com/Ina-dang/github-readme-stats&align=center)
-[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
-
+<table>
+<tr>
+<th>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact&)](https://github.com/Ina-dang/github-readme-stats&align=center)</th>
+<th>[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)</th>
+</tr>
+</table>
 	
 <h3 align="center">📚 Tech Stack 📚</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!--  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -54,6 +58,7 @@ Here are some ideas to get you started:
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+
   
 
 
