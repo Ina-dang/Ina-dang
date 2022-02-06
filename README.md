@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 	
 <div align=center>
-	
+	<h3> 🐣 SNS / portfolio 🐣 </h3>	
 <a href="https://instagram.com/h_owo_ld" align=center>
     <img 
 	 src="http://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
