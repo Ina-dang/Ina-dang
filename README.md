@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	
  <a href="https://instagram.com/h_owo_ld" align=center>
     <img 
-        src="http://img.shields.io/badge/-Instagram-3f729b?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
+        src="http://img.shields.io/badge/-Instagram-gradient 3f729b?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blog.naver.com/howold0917" align=center>
