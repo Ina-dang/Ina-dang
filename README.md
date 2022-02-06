@@ -33,4 +33,4 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&cikir=timeGradient&height=200&section=foot&text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20&fontColor=FFFFFF&rotate=-180)
+![header](https://capsule-render.vercel.app/api?type=Slice&rotate=-180&cikir=timeGradient&height=200&section=foot&text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20&fontColor=FFFFFF)
