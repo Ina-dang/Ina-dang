@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 
-
-<a href="https://instagram.com/h_owo_ld" align=center>
+<div align=center>
+	
+ <a href="https://instagram.com/h_owo_ld" align=center>
     <img 
         src="http://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&link=https://instagram.com/h_owo_ld/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -32,5 +33,9 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-inadang-lightyellow?style=flat&logo=ReverbNation&link=https://inadang.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+	
+  </div>
+  
+
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
