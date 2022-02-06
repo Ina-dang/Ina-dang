@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=200&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
-[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy&layout=compact&&width=70&height=100)](https://github.com/Ina-dang/github-readme-stats)
+[![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 <div align=center>
 	
  <a href="https://instagram.com/h_owo_ld" align=center>
