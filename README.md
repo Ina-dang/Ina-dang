@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://inadang.com">
     <img 
-        src="http://img.shields.io/badge/-ReverbNation-lightyello?style=flat&logo=NGINX&link=https://inadang.com/"
+        src="http://img.shields.io/badge/-#E43526-lightyello?style=flat&logo=NGINX&link=https://inadang.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
