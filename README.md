@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
 
-		🌱 I’m currently learning ...		
+		🌱 I’m currently learning Java in Seoul, Korea
+		📫 How to reach me: ina9377@gmail.com
 
 <div align=center>
 	
