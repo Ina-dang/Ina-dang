@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align = center>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=180&section=header&text=Ina-dang🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF)
-</p>
+
 <p align = center>
 🌱 I’m currently learning Java in Seoul, Korea <br>
 📫 How to reach me: ina9377@gmail.com
 </p>
 
-<p align = center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
 [![Ina-dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-dang&&show_icons=true&theme=buefy)](https://github.com/Ina-dang/github-readme-stats)
-</p>
+
 	
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
