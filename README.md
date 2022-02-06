@@ -32,5 +32,5 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-inadang-lightyellow?style=flat&logo=ReverbNation&link=https://inadang.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![Ina-dang's GitHub stats](https://github.com/anuraghazra/github-readme-stats)]
+[![Ina-dang's GitHub stats](https://github.com/anuraghazra/github-readme-stats)](https://github.com/Ina-dang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ina-dang&layout=compact)](https://github.com/Ina-dang/github-readme-stats)
