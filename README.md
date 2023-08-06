@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align=center> 
-🌱 Hello🖐 I’m INA in Seoul, Korea 
-<br>
-I used to major in music and psychology.
-And now I'm a front-end developer!
+🌱 Hello🖐 I’m Ina from Seoul, Korea.
 </h3>
+<p align=center>I used to major in music and psychology,but now I'm a front-end developer!
+</p>
 <br>
 
 <div align=center>
@@ -33,20 +32,21 @@ And now I'm a front-end developer!
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Oraclesql-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+	<br/>
+ 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+	
 </div>
 	
 <div align=center>
-	<h3> 🐣 SNS / portfolio 🐣 </h3>	
-	<a href="https://www.notion.so/inadang/Ina-b89959d18d534a52a1cf2301e0a2284d" align=center>
-		<img src="http://img.shields.io/badge/-notion-black?style=flat&logo=notion&link=https://www.notion.so/inadang/Ina-b89959d18d534a52a1cf2301e0a2284d"
-		 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
+	<h3> 🐣 Social 🐣 </h3>	
 	<a href="https://h-owo-ld.tistory.com/" align=center>
 		<img src="http://img.shields.io/badge/-Tistory-yellow?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
 	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
