@@ -1,13 +1,19 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the main branch
+  # don't forget to change if you're using 'master' branch
   push:
     branches:
-      - master
-      - develop
-  workflow_dispatch:
-  #schedule:
-  #  - cron: "0 0 * * *"
+    - main
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,3 +31,4 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
