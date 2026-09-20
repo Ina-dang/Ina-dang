@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align=center> 
 🌱 Hello🖐 I’m Ina from Seoul, Korea.
 </h3>
-<p align=center>I used to major in music and psychology,but now I'm a front-end developer!
+<p align=center>I used to major in music and psychology,but now I'm a developer!
 </p>
 <br>
 
